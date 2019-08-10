@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> read json files form your terminal
+> read json files from your terminal
 
 ## Installation
 
