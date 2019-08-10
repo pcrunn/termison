@@ -1,7 +1,7 @@
 {
   "name": "termison",
   "version": "1.0.0",
-  "description": "read json files form your terminal",
+  "description": "read json files from your terminal",
   "main": "bin/termison.js",
   "bin": {
     "termison": "bin/termison.js"
