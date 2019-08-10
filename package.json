@@ -1,0 +1,23 @@
+{
+  "name": "termison",
+  "version": "1.0.0",
+  "description": "read json files form your terminal",
+  "main": "bin/termison.js",
+  "bin": {
+    "termison": "bin/termison.js"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcrunn/termison.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Alexander P <pcrunn@pm.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcrunn/termison/issues"
+  },
+  "homepage": "https://github.com/pcrunn/termison#readme"
+}
